@@ -1,0 +1,4 @@
+com/dicoding/javafundamental/inputouput/InputOutputFunction.java
+ com.dicoding.javafundamental.inputouput.InputOutputFunction
+com/dicoding/javafundamental/inputouput/UserOutput.java
+ com.dicoding.javafundamental.inputouput.UserOutput
